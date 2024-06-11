@@ -2,7 +2,7 @@
 Código desarrollado para el Trabajo de Fin de Grado **Grafos en Colaboraciones Científicas en Alzheimer** realizado por Azael Paredes Criado en la Universidad Complutense de Madrid
 
 ## ¿Que contiene?
-El código Matlab aquí presente se compone de 5 archivos enumerados que incluyen todos los análisis, creaciones de gráficas, etc... y 4 funciones para agilizar el proceso.
+El código Matlab aquí presente se compone de 5 archivos enumerados que incluyen todos los análisis, creaciones de gráficas, etc... y 4 funciones para agilizar el proceso.  
 Se incluye un PDF con las imágenes de los resultados finales de cada emparejamiento entre países.
 
 ## Disponibilidad de los datos 
