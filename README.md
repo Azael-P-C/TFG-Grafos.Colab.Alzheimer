@@ -3,6 +3,7 @@ Código desarrollado para el Trabajo de Fin de Grado **Grafos en Colaboraciones 
 
 ## ¿Que contiene?
 El código Matlab aquí presente se compone de 5 archivos enumerados que incluyen todos los análisis, creaciones de gráficas, etc... y 4 funciones para agilizar el proceso.
+Se incluye un PDF con las imágenes de los resultados finales de cada emparejamiento entre países.
 
 ## Disponibilidad de los datos 
 Los datos sin procesar (*raw*) y su información complementaria se obtuvieron de la página web de PubMed: https://pubmed.ncbi.nlm.nih.gov/.  
